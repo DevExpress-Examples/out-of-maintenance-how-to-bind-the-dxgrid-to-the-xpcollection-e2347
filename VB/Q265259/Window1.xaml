@@ -1,4 +1,4 @@
-﻿<Window x:Class="XPCollectionSample.Window1"
+<Window x:Class="XPCollectionSample.Window1"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
         xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
